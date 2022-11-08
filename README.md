@@ -1,16 +1,11 @@
 # bitcoin_ticker
+Created by: Raouf meghaoui
 
-A new Flutter project.
+### Screenshot
+![image](https://user-images.githubusercontent.com/72553155/200659212-d609621c-08e5-4f67-84d5-9ecd291d47c2.png)
+![image](https://user-images.githubusercontent.com/72553155/200659444-08a537a1-0ad7-42c8-bac5-b2a91968bd0e.png)
+![image](https://user-images.githubusercontent.com/72553155/200659688-7d7231f0-ff3f-4c58-a65a-fc7390d35735.png)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Description
+In this project we have create a bitcoin ticker app using the API from https://docs.coinapi.io/
